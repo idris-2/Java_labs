@@ -1,6 +1,6 @@
-package Lab_week_3.item_task;
+package Task_3.item_task;
 
-import Lab_week_3.enums.enums;
+import Task_3.enums.enums;
 
 public class TaskItem {
     private int taskId;

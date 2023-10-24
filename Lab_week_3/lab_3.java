@@ -6,8 +6,8 @@ representing the status of the task with values such as TO_DO, IN_PROGRESS, COMP
  */
 package Lab_week_3;
 import Lab_week_3.item_task.DataStructures;
-import Lab_week_3.item_task.TaskItem;
-import Lab_week_3.enums.enums;
+// import Lab_week_3.item_task.TaskItem;
+// import Lab_week_3.enums.enums;
 
 /* 
 import java.sql.SQLException;
@@ -19,6 +19,7 @@ import java.util.Scanner;
 public class lab_3{
     public static void main(){
         DataStructures lol = new DataStructures();
+        System.out.println(lol.getAllObjects());
     }
 }
 
