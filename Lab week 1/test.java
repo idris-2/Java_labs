@@ -19,6 +19,7 @@ class test{
         int num2 = idk.nextInt();
         System.out.println("Sum of numbers: " + Integer.toString(num1 + num2));
 
+        // poruka
         // 5. if num is positive
         System.out.println("Enter num: ");
         int num3 = idk.nextInt();
